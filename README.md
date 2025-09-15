@@ -1,6 +1,6 @@
 # Microservices Demo (Java + Spring Boot + REST)
 
-A small, student-friendly project to practice **microservices** concepts with Java and Spring Boot.  
+A small project to practice **microservices** concepts with Java and Spring Boot.  
 It models a fake shop with **users**, **orders**, and **payments** as separate services.
 
 ---
